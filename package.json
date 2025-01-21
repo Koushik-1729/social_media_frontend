@@ -37,6 +37,13 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],"engines": {
+  "node": "16.20.2"
+},"browserslist": [
+  ">0.2%",
+  "not dead",
+  "not op_mini all"
+]
+
   }
 }
